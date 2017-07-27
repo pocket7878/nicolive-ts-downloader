@@ -1,0 +1,10 @@
+[package]
+name = "nico-ts-dl"
+version = "0.1.0"
+authors = ["Pocket7878 <poketo7878@gmail.com>"]
+
+[dependencies]
+reqwest = "0.7.2"
+sxd-xpath = "0.4.0"
+sxd-document = "0.2.3"
+cookie = "0.9.1"
